@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:floralwhite;
+  }
+  
+  h1 {
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  h2 {
+    color: black;
+    text-align: center;
+  }
+  
+  table {
+    border: 2px solid black;
+    width: 800px;
+    margin: 0px auto;
+    border-collapse: collapse;
+  }
+  th, td, tr {
+      border: black 1px solid;
+      padding: 5px;
+  }
+  
+  thead {
+    background-color: lightsteelblue;
+    text-align: center;
+  }
+  .infoblock {
+    background-color: lightsteelblue;
+    text-align: center;
+    font-weight: bold;  
+  }
+  .code {
+    font-family: monospace;
+    background-color: beige;
+  }
